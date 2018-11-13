@@ -2,9 +2,6 @@
 
 Student Project for Google Front-End Development Nanodegree Program at Udacity made with React.
 
-**[See live project](https://franciscusagnew.github.io/reactnd-project-myreads-starter/)**
-
-
 ## Table of Contents
 
 * [How to Run Application](#how-to-run-application)
